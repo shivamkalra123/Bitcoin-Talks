@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@700&display=swap');
+body{
+  margin: 0;
+  padding: 0;
+}
+img.deskto{
+  height: 800px;
+  width: 100%;
+  position: absolute;
+
+}
+img.bit{
+  position: absolute;
+  left: 55%;
+  margin-top: 8%;
+
+  
+}
+
+img.spotify{
+  position: absolute;
+  width: 200px;
+  left: 15%;
+  top: 67%;
+}
+h1.talks{
+  position: absolute;
+  color: white;
+  font-family: 'Source Sans Pro', sans-serif;
+  margin-left: 10%;
+  margin-top: 10%;
+  font-size: 120px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(23, 17, 17);
+  
+
+}
+
+li.a {
+  float: left;
+  
+}
+li.b{
+  float: left;
+}
+img.c{
+  height: 35px;
+ 
+  top: 1.3%;
+  left: 90%;
+  position: absolute;
+  float: right;
+}
+img.e{
+  height: 40px;
+
+  top: 1%;
+  left: 70%;
+  position: absolute;
+}
+img.d{
+  height: 40px;
+  
+  top: 1%;
+  left: 80%;
+  position: absolute;
+}
+li.b a{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: sans-serif;
+  font-weight:600;
+  font-size: 18px;
+}
+.navbar{
+  position:static;
+}
+
+li.a a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: "SF-Pro", sans-serif, serif;
+  
+  font-size: 18px;
+  margin-right: 20px;
+  margin-left: 50px;
+}
+
